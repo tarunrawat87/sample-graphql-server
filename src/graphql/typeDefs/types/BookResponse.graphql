@@ -1,0 +1,6 @@
+
+
+type BookResponse {
+ books: [Book] ! ,
+ success: Boolean !  
+}
